@@ -134,9 +134,9 @@ img{
 .showcase-content input{
     position: absolute;
     left: 0;
-    bottom: -8vh;
-    width: 350px;
-    height: 2rem;
+    bottom: 1vh;
+    width: 270px;
+    height: 1.9rem;
     font-size: .6rem;
     padding-left: 0.5rem;
 }
@@ -169,11 +169,12 @@ img{
 .showcase-content .btn-lg{
     position: absolute;
     right: 0;
-    bottom: -8vh;
+    bottom: 1.2vh;
     padding: 0.5rem 1.2rem;
     font-size: 1rem;
-    height: 0px;
+    height: 17px;
     width: 7rem;
+    overflow-y:hidden ;
     
 }
 
